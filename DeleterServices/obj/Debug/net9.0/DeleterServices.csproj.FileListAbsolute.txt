@@ -1,0 +1,12 @@
+C:\Users\Vitaliy\RiderProjects\ArtHuntMarketFrontEnd\DeleterServices\bin\Debug\net9.0\DeleterServices.deps.json
+C:\Users\Vitaliy\RiderProjects\ArtHuntMarketFrontEnd\DeleterServices\bin\Debug\net9.0\DeleterServices.dll
+C:\Users\Vitaliy\RiderProjects\ArtHuntMarketFrontEnd\DeleterServices\bin\Debug\net9.0\DeleterServices.pdb
+C:\Users\Vitaliy\RiderProjects\ArtHuntMarketFrontEnd\DeleterServices\obj\Debug\net9.0\DeleterServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitaliy\RiderProjects\ArtHuntMarketFrontEnd\DeleterServices\obj\Debug\net9.0\DeleterServices.AssemblyInfoInputs.cache
+C:\Users\Vitaliy\RiderProjects\ArtHuntMarketFrontEnd\DeleterServices\obj\Debug\net9.0\DeleterServices.AssemblyInfo.cs
+C:\Users\Vitaliy\RiderProjects\ArtHuntMarketFrontEnd\DeleterServices\obj\Debug\net9.0\DeleterServices.csproj.CoreCompileInputs.cache
+C:\Users\Vitaliy\RiderProjects\ArtHuntMarketFrontEnd\DeleterServices\obj\Debug\net9.0\DeleterServices.sourcelink.json
+C:\Users\Vitaliy\RiderProjects\ArtHuntMarketFrontEnd\DeleterServices\obj\Debug\net9.0\DeleterServices.dll
+C:\Users\Vitaliy\RiderProjects\ArtHuntMarketFrontEnd\DeleterServices\obj\Debug\net9.0\refint\DeleterServices.dll
+C:\Users\Vitaliy\RiderProjects\ArtHuntMarketFrontEnd\DeleterServices\obj\Debug\net9.0\DeleterServices.pdb
+C:\Users\Vitaliy\RiderProjects\ArtHuntMarketFrontEnd\DeleterServices\obj\Debug\net9.0\ref\DeleterServices.dll
